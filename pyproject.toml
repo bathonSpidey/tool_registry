@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "A lightweight tool registry system for function metadata, tagging, and OpenAI compatibility"
 readme = "README.md"
 license = { text = "MIT" }
-authors = [{ name = "Your Name", email = "your.email@example.com" }]
+authors = [{ name = "bathonSpidey", email = "bathonbhats@gmail.com" }]
 requires-python = ">=3.8"
 dependencies = []
 
