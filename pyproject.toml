@@ -1,5 +1,5 @@
 [project]
-name = "toolregistry"
+name = "LLMClassBasedToolRegistry"
 version = "0.1.0"
 description = "A lightweight tool registry system for function metadata, tagging, and OpenAI compatibility"
 readme = "README.md"
